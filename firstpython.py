@@ -1,2 +1,2 @@
-#python prog trial
+# python prog trial
 print('Hi Python')
